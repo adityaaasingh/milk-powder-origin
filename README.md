@@ -2,6 +2,8 @@
 
 Milk Powder Origin Classification
 
+***I don't have permission to make the dataset used publicly available***
+
 Overview
 This project investigates whether trace elemental composition (ppm) can be used to classify the regional origin of milk powder samples. Using a Random Forest classifier and feature selection techniques, a reduced model was developed and validated.
 The final model achieved ~96% accuracy under repeated 10-fold cross-validation, demonstrating strong geographic signal in elemental profiles.
